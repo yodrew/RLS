@@ -17,6 +17,10 @@ sections:
   templates:
   - landing-page
   - page
+- type: document
+  path: style.scss
+  label: CSS
+  match: "**/*"
 - type: directory
   path: _people
   label: People
